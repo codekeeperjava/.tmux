@@ -341,7 +341,6 @@ tmux_conf_copy_to_os_clipboard=false
 set -gu prefix2
 # unbind C-a
 unbind C-b
-unbind C-l
 set -g prefix C-a
 bind C-a send-prefix
 

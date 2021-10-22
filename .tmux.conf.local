@@ -391,7 +391,7 @@ set -g @resurrect-strategy-nvim 'session' # for nvim
 set -g @resurrect-capture-pane-contents 'on' # for pane
 set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @continuum-save-interval '5'
-set -g @continuum-restore 'on'
+#set -g @continuum-restore 'on'
 
 
 # -- custom variables ----------------------------------------------------------

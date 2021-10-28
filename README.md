@@ -162,6 +162,7 @@ This configuration uses the following bindings:
  - `<prefix> C-h` and `<prefix> C-l` let you navigate windows (default
    `<prefix> n` and `<prefix> p` are unbound)
  - `<prefix> Tab` brings you to the last active window
+ - `<prefix> [` and `<prefix> ]` let you swap windows
 
  - `<prefix> -` splits the current pane vertically
  - `<prefix> _` splits the current pane horizontally
